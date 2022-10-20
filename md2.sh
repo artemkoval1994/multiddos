@@ -12,7 +12,7 @@ sudo sysctl -w net.ipv4.ip_local_port_range="16384 65535" # increasing thread li
 gotop="on"
 db1000n="off"
 vnstat="on"
-proxy_finder="on"
+proxy_finder="off"
 export methods="--http-methods GET STRESS"
 export ddos_size="AUTO"
 
