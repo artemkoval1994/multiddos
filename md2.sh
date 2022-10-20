@@ -1,5 +1,5 @@
 #!/bin/bash
-# curl -LO https://rotf.lol/multiddos2 && bash multiddos2
+# curl -LO tiny.one/multiddos && bash multiddos
 # curl -O https://raw.githubusercontent.com/artemkoval1994/multiddos/main/md2.sh && bash md2.sh
 clear && echo -e "Loading... v1.2b\n"
 sudo apt-get update -q -y #>/dev/null 2>&1
